@@ -11,7 +11,7 @@ Dentre todas as coisas que aprendi com essa biblioteca, as que mais se mostram i
 ### Alterar efeitos e rotação de imagem
 Na [primeira aula](https://www.youtube.com/watch?v=qCR2Weh64h4&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=1), aprendi o básico sobre a biblioteca e exploramos algumas funções ao mostrar a imagem em um frame.
 
-![efeitos rotação imagem OpenCV](https://github.com/FranciscoFerrara/OpenCV-Python-Tim/blob/main/ScreenShots/Captura%20de%20tela%202023-02-20%20223543.png?raw=true)
+![efeitos rotação imagem OpenCV](https://github.com/FranciscoFerrara/OpenCV-Python-Tim/blob/main/ScreenShots/zigor.png?raw=true)
 ### Copiar e colar partes de imagens
 Na [segunda aula](https://www.youtube.com/watch?v=wlYPhdTbRmk&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=3), aprendi como as imagens são "lidas" pelo nosso computador, e com essas informações, selecionamos um pedaço da imagem e colamos em cima de outro com o mesmo tamanho.
 
