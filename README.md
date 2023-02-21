@@ -3,7 +3,7 @@
 
 Nesse projeto, segui um tutorial para começar a aprender uma biblioteca de manipulação de imagens, OpenCV, o tutorial é do canal do Youtube Tech with Tim, mais abaixo tem um link caso queira dar uma olhada, me surgiu o interesse de aprender sobre essa biblioteca específica durante algumas conversas com meu querido professor/mentor @igorvac
 
-![python OpenCV](https://github.com/FranciscoFerrara/OpenCV-Python-Tim/blob/main/ScreenShots/opencvCapa.jpeg?raw=true)
+![python OpenCV](https://github.com/FranciscoFerrara/OpenCV-Python-Tim/blob/main/ScreenShots/AopencvCapa.jpeg?raw=true)
 
 ## Aprendizados
 
