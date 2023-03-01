@@ -1,5 +1,5 @@
 
-# Tutorial de OpenCV Python
+# Tutorial de OpenCV Python  ( Projeto de Estudo )
 
 Nesse projeto, segui um tutorial para começar a aprender uma biblioteca de manipulação de imagens, OpenCV, o tutorial é do canal do Youtube Tech with Tim, mais abaixo tem um link caso queira dar uma olhada, me surgiu o interesse de aprender sobre essa biblioteca específica durante algumas conversas com meu querido professor/mentor @igorvac
 
